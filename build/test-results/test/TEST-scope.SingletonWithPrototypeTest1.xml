@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="scope.SingletonWithPrototypeTest1" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-21T13:23:19" hostname="sum.local" time="0.102">
+  <properties/>
+  <testcase name="singletonClientUsePrototype()" classname="scope.SingletonWithPrototypeTest1" time="0.102"/>
+  <system-out><![CDATA[PrototypeBean.initscope.SingletonWithPrototypeTest1$PrototypeBean@29df4d43
+PrototypeBean.initscope.SingletonWithPrototypeTest1$PrototypeBean@56f6d40b
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
